@@ -95,3 +95,5 @@ def main():
 
 if __name__ == "__manin__":
     main()
+
+#Testing new lines in commit message
