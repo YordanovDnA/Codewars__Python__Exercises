@@ -90,4 +90,8 @@ def calculate_monthly_cost(dict, people, days):
     
     return(sum(a)*people * days)
 
-print(calculate_monthly_cost(Dayli_Intake_Per_Person, 1, 30))
+def main():
+    print(calculate_monthly_cost(Dayli_Intake_Per_Person, 1, 30))
+
+if __name__ == "__manin__":
+    main()
